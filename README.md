@@ -1,2 +1,2 @@
 # voidstake-assets
-ublic validator metadata for VoidStake
+Public validator metadata for VoidStake
